@@ -6,7 +6,7 @@ export default function Navbar({cart,setCart}){
            <div>
              <nav className="navbar navbar-expand-lg navbar-light bg-light px-4.px-lg-5">
                 <div className="container-fluid">
-                  <a className="navbar-brand ms-5 fs-3" href="#">Start BootStrap</a>
+                  <a className="navbar-brand ms-5 fs-3" href="#">Start Shopping</a>
                   <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                   </button>
